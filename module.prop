@@ -1,0 +1,6 @@
+id=a22x-gsi-overlay
+name=Galaxy A22 5G GSI Overlay
+version=v1
+versionCode=12
+author=Pokey8680
+description=Fix issues on GSIs on the Galaxy A22 5G
